@@ -6,3 +6,7 @@ Git has a mutable index called stage.
 aaaa
 
 猪
+
+bbb
+
+cc
